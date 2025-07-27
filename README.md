@@ -1,4 +1,4 @@
-## student Registration System (React)
+## Student Registration System (React)
 
 A fully responsive and intuitive Student Registration System built with React.js that allows administrators to manage:
 Course Types (e.g., Individual, Group)
