@@ -58,6 +58,8 @@ Version Control: Git + GitHub
 
 Deployment:Netlify
 
+## OUTPUT:
 
+<img width="1755" height="905" alt="Image" src="https://github.com/user-attachments/assets/6f21530f-e1b4-42fb-812b-84399de2eca6" />
 
 
