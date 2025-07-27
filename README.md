@@ -1,4 +1,4 @@
-##student Registration System (React)
+## student Registration System (React)
 
 A fully responsive and intuitive Student Registration System built with React.js that allows administrators to manage:
 Course Types (e.g., Individual, Group)
@@ -11,7 +11,8 @@ Student Registrations with offering filter support
 
 This project is developed using modern React standards including Hooks, Context API, and React Router, with a mobile-first responsive design.
 
-#Key Features:
+# Key Features:
+
 ✅ Course Type Management
 
 Create, update, list, and delete course types.
@@ -46,7 +47,7 @@ Styled using a single global CSS file.
 
 Built-in global state using React Context API.
 
-#Tech Stack
+# Tech Stack
 Frontend: React.js, JavaScript (ES6), HTML5, CSS3
 
 Routing: React Router
